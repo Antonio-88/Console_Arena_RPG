@@ -1,4 +1,4 @@
-#Console Arena RPG
+# Console Arena RPG
 Welcome to Console Arena RPG, a turn-based, text-driven battle simulator built entirely in C++. This project features data-driven character configurations, ASCII art visual feedback, an upgrade system, and both singleplayer and local multiplayer modes. 
 ## Features
 - Two Game Modes: Tackle a gauntlet of monsters alone or challenge a friend to local 1v1 PvP.
