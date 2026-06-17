@@ -14,7 +14,7 @@ When prompted by the console, type the following commands exactly (in ALL CAPS):
 Singleplayer Upgrade Mechanic: Every time you defeat an enemy, you heal by 10 points and receive 3 upgrade points to distribute among your stats as you see fit.
 ### Setup & Compilation
 To compile and run this game, you only need a standard C++ compiler (like g++). Ensure your repository files are organized together in the same directory
-Open your terminal or command prompt, navigate to the project folder, and run: \ng++ main.cpp -o ConsoleRPG
-Run the game: \n./ConsoleRPG
+- Open your terminal or command prompt, navigate to the project folder, and run: g++ main.cpp -o ConsoleRPG
+- Run the game: ./ConsoleRPG
 ## Retro Project Notes
 This project stands as a great snapshot of foundational programming principles. It showcases file I/O handling, structural arrays (struct), procedural game loops, and string manipulations using classic C-string libraries (<cstring>).
