@@ -6,17 +6,15 @@ Welcome to Console Arena RPG, a turn-based, text-driven battle simulator built e
 - ASCII Art Graphics: Custom text-based graphics render unique designs for your character choices, enemies, and combat actions (hits, misses, and heals).
 - RPG Upgrade System: Defeating enemies in Singleplayer rewards you with stat boosts to customize your character's progression.
 - RNG Combat Mechanics: Attacks rely on calculated accuracy percentages, making every turn a gamble.
-###How to Play
+### How to Play
 When prompted by the console, type the following commands exactly (in ALL CAPS):
 - Game Modes: SINGLEPLAYER or MULTIPLAYER
 - Combat Actions: ATTACK or HEAL
 - Singleplayer Upgrades: ATTACK (+4), HEAL (+3), or ACCURACY (+5%)
 Singleplayer Upgrade Mechanic: Every time you defeat an enemy, you heal by 10 points and receive 3 upgrade points to distribute among your stats as you see fit.
-###Setup & Compilation
+### Setup & Compilation
 To compile and run this game, you only need a standard C++ compiler (like g++). Ensure your repository files are organized together in the same directory
-Open your terminal or command prompt, navigate to the project folder, and run:
-g++ main.cpp -o ConsoleRPG
-Run the game
-./ConsoleRPG
+Open your terminal or command prompt, navigate to the project folder, and run: \ng++ main.cpp -o ConsoleRPG
+Run the game: \n./ConsoleRPG
 ## Retro Project Notes
 This project stands as a great snapshot of foundational programming principles. It showcases file I/O handling, structural arrays (struct), procedural game loops, and string manipulations using classic C-string libraries (<cstring>).
