@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1686163856 source:c:\users\mincu\desktop\sgp\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+
+1686163941 source:c:\users\elev.labs\desktop\sgp\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+
+1737010942 source:c:\users\antonio\downloads\sgp\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+
